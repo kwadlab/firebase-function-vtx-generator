@@ -1,0 +1,20 @@
+{
+  "name": "kwadlab-bot-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-blob": "^1.2.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.9.2",
+    "firebase-functions": "^3.3.0"
+  },
+  "engines": {
+    "node": "8"
+  }
+}
